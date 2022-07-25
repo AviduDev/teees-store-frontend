@@ -12,7 +12,7 @@ import ProductsBanner from '../components/homepage/ProductsBanner';
 const Home = () => (
   <Root transparentHeader={true}>
     <Head>
-      <title>Home | commerce</title>
+      <title>Teees Store | Custom Designed T-Shirts for Sale</title>
     </Head>
 
     <HeroSection />
